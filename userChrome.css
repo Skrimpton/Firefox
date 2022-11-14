@@ -47,6 +47,11 @@
   .tab-icon-overlay:not([pinned], [sharing], [crashed]):is([soundplaying], [muted]):hover {
     fill: yellow !important;
   }
+  
   [lwthemetextcolor="bright"] .tab-icon-overlay:not([pinned], [sharing], [crashed]):is([soundplaying], [muted]):hover {
-    fill: lightgreen !important; /* for dark themes */
+    fill: yellow !important; /* for dark themes */
+  }
+
+  .tabbrowser-tab:not([pinned]) {
+    max-width: 2000px !important;
   }
