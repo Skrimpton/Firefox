@@ -14,7 +14,7 @@ browser.search.openintab
 ```bash
 browser.tabs.loadBookmarksInTabs
 ```
-#### Clicked links
+#### (Some) Clicked links and other stuff like xdg-open
 ```bash
 browser.tabs.loadDivertedInBackground
 ```
