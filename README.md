@@ -14,6 +14,10 @@ browser.search.openintab
 ```bash
 browser.tabs.loadBookmarksInTabs
 ```
+#### Clicked links
+```bash
+browser.tabs.loadDivertedInBackground
+```
 
 #
 ## [FIREFOX SMOOTH-SCROLLING](https://averagelinuxuser.com/firefox-smooth-scrolling/)
